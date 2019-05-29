@@ -1,5 +1,7 @@
 # DVDatabaze
 
-Program for creating database of movies - WinForm
+Program for creating database of movies
 
-Year: 2012
+**Technology:** WinFowm
+
+**Year:** 2012
