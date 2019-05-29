@@ -1,5 +1,5 @@
 # DVDatabaze
 
-Program for creating database of movies - WPF
+Program for creating database of movies - WinForm
 
-Year: 2014
+Year: 2012
